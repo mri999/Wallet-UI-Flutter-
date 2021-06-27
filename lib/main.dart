@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:master_card_ui/widgets/get_started.dart';
 import 'package:master_card_ui/widgets/home_card.dart';
 
 void main() {
@@ -15,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         fontFamily: 'Circular'
       ),
-      home: HomeCard(),
+      home: GetStarted(),
     );
   }
 }
