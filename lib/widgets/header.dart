@@ -50,9 +50,9 @@ class Header extends StatelessWidget {
                   ),
                 ),
                 Center(
-                  child: IconButton(
-                    onPressed: (){},
-                    icon: Icon(Icons.notifications)
+                  child: InkWell(
+                    onTap: (){},
+                    child: Icon(Icons.notifications)
                   )
                 )
               ],

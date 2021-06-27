@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:master_card_ui/constants/colors.dart';
 import 'package:master_card_ui/constants/size.dart';
 import 'package:master_card_ui/widgets/card_widget.dart';
-import 'package:master_card_ui/widgets/expenses.dart';
+import 'package:master_card_ui/widgets/services.dart';
 import 'package:master_card_ui/widgets/header.dart';
 
 class HomeCard extends StatelessWidget {
@@ -23,7 +23,7 @@ class HomeCard extends StatelessWidget {
                 child: Header(),
               ),
               Expanded(child: CardWidget()),
-              Expanded(child: Expenses())
+              Expanded(child: Services())
             ],
           ),
         ),

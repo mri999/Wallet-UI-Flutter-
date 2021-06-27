@@ -14,8 +14,8 @@ class _CardWidgetState extends State<CardWidget> {
 
   @override
   Widget build(BuildContext context) {
-    var height = SizeConfig.getHeight(context);
-    var width = SizeConfig.getWidth(context);
+    var height = SizeConfig.getHeight(context) * 0.9;
+    var width = SizeConfig.getWidth(context) * 0.9;
     double fontSize(double size) {
       return size * width / 414;
     }
