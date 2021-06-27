@@ -1,6 +1,6 @@
-# master_card_ui
+# Wallet UI
+![UI](https://user-images.githubusercontent.com/38829097/123546465-3e87c800-d77a-11eb-9d52-78798eb23f25.png)
 
-A new Flutter project.
 
 ## Getting Started
 
