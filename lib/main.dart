@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:master_card_ui/home_card.dart';
+import 'package:master_card_ui/widgets/home_card.dart';
 
 void main() {
   runApp(MyApp());
@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       title: 'MasterCard UI',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.blue,
+        fontFamily: 'Circular'
       ),
       home: HomeCard(),
     );
