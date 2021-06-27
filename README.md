@@ -1,5 +1,5 @@
 # Wallet UI
-![UI](https://user-images.githubusercontent.com/38829097/123546465-3e87c800-d77a-11eb-9d52-78798eb23f25.png)
+![UI](https://user-images.githubusercontent.com/38829097/123546580-d2599400-d77a-11eb-9115-314f90f28a3d.png)
 
 
 ## Getting Started
