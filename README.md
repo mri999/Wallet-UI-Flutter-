@@ -1,5 +1,7 @@
 # Wallet UI
+![Screenshot from 2021-06-27 20-51-11](https://user-images.githubusercontent.com/38829097/123550100-7cd8b380-d789-11eb-81a9-a72eed8215b5.png)
 ![UI](https://user-images.githubusercontent.com/38829097/123546580-d2599400-d77a-11eb-9115-314f90f28a3d.png)
+
 
 
 ## Getting Started
