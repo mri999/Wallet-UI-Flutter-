@@ -45,7 +45,7 @@ class BankCard extends StatelessWidget {
                               fontWeight: FontWeight.w500),
                         ),
                         Text(
-                          "1930",
+                          "3847",
                           style: TextStyle(
                               fontSize: fontSize(30),
                               fontWeight: FontWeight.w500),
